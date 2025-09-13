@@ -13,7 +13,7 @@ setup(
     install_requires=[
         'arrow==0.12.0',
         'bingads==13.0.3',
-        'requests==2.20.0',
+        'requests==2.32.4',
         'singer-python==5.9.0',
         'stringcase==1.2.0',
         'backoff==1.8.0',
